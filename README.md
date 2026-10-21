@@ -35,3 +35,7 @@ GitHubには、原画像80枚をアイコンごとのZIPとして `downloads/` �
 - [アイコン16（5コマ）](downloads/icon_16.zip)
 
 ZIPのページを開き、**Download raw file**（ダウンロードボタン）を押してください。
+
+## 解凍せずPNGを取得
+
+`assets/hedgehog/originals/` からアイコン番号のフォルダを開き、`frame_01.png` ～ `frame_05.png` を選んで **Download raw file** で保存できます。PNG画像とmanifestもGitHubに収録しています。

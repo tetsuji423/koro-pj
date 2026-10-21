@@ -1,0 +1,802 @@
+[
+  {
+    "icon": 1,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_01/frame_01.png",
+    "source": "exec-fdd74c16-f4a4-462a-aa78-0cd5d8d24463.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "38c26e2d11006f98a747c5117b67ce861ab5492d1ee8b662aa1b86cbeb0e77ff"
+  },
+  {
+    "icon": 1,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_01/frame_02.png",
+    "source": "exec-3752f773-4010-4801-bbce-bfc9e2d6253f.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "d5699dcc21946b06a2d7b62d8c71e277aa6dc894dc1d642eb461097025b4ab77"
+  },
+  {
+    "icon": 1,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_01/frame_03.png",
+    "source": "exec-50684d97-6a3f-4a64-afff-a71e38537734.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "3a7ee484c39096a91b7d81bc79ef1c163cb0081c21dc0a97033f0d0fed9b2686"
+  },
+  {
+    "icon": 1,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_01/frame_04.png",
+    "source": "exec-47e4b6b4-674d-4acc-8fa2-66560cdad6be.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "8230342215f16cfdb35730c4d5180771f176b4b1e8290be53ddc248dd60159ac"
+  },
+  {
+    "icon": 1,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_01/frame_05.png",
+    "source": "exec-25548a9c-a35a-4295-bdc1-e7e7b049f50a.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "c1ae05ca3c613266498de6364cfbdb1e154ad5866575f1efd79ecf3a50820e77"
+  },
+  {
+    "icon": 2,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_02/frame_01.png",
+    "source": "exec-52a03e09-18de-4072-8cc6-4ec54ef7a3ea.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "6b08d189a9946000e9fedfc1f57d742a6228ed41ff8de4fd2f26e78e94918f72"
+  },
+  {
+    "icon": 2,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_02/frame_02.png",
+    "source": "exec-352dc814-5efa-488d-bc03-bcf30ea8cc14.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "42c196b66aa88c2dc86f2fb14eedc513bc39274c380777cb784774af6e11d0c4"
+  },
+  {
+    "icon": 2,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_02/frame_03.png",
+    "source": "exec-bc4253aa-cf05-4cda-8ebd-291bfb24a74e.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f3048fbcedea501feea0030e8b1f0c44cd8fd18ce46e6d39a2029ef0711cc506"
+  },
+  {
+    "icon": 2,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_02/frame_04.png",
+    "source": "exec-4ef30296-0d1c-49f8-98c0-1d32ea0152e6.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "b0ecbe0313ab17205a010f27efe1fd9c7291ef7a3e96f397cb3b5b7becd5b5f5"
+  },
+  {
+    "icon": 2,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_02/frame_05.png",
+    "source": "exec-bd18c08e-a6bf-4156-8d31-d7be779b8055.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "0a08d9c7180495fa56491d20f1f8d873a63b77a5844fad4cc855ab84ef8ddc46"
+  },
+  {
+    "icon": 3,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_03/frame_01.png",
+    "source": "exec-e7112e3e-d302-4246-b812-740a90b094b0.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "ea063d19789032947fddfef197079a87336eaae73b936956dd240da19e54f3e6"
+  },
+  {
+    "icon": 3,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_03/frame_02.png",
+    "source": "exec-5df48750-2b6b-4cbd-aab4-b361972955ec.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "556fca38c169e2b41cfc1be462de0e750fd70a33027a198b8f62afc37f373166"
+  },
+  {
+    "icon": 3,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_03/frame_03.png",
+    "source": "exec-52efe12c-30af-4fac-bc07-7218414f2604.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "29d1caf7f87090f53b4b70ec41c8b9dcadd2b786796775e78fb56fa9b6e6ba29"
+  },
+  {
+    "icon": 3,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_03/frame_04.png",
+    "source": "exec-810426c5-f9e2-4e76-a605-c17f066fc0bb.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "17c5c48eb0676ddaff0667205c882e5c631450168af708e9af2c6eda2e1dab35"
+  },
+  {
+    "icon": 3,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_03/frame_05.png",
+    "source": "exec-a5e482fb-6ba9-418a-b3d4-72dadbd772cb.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "513b85568abfa6f66fd02160d7de9a4d8ce62cef68ae0cd3f97d75eb2724a3a7"
+  },
+  {
+    "icon": 4,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_04/frame_01.png",
+    "source": "exec-cb03a4cd-d833-4166-9b95-7eb9bf4660c2.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "26976c4014d361152f73765b506ebf0dfb89c05d28fa92f4685bb28a2c467e38"
+  },
+  {
+    "icon": 4,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_04/frame_02.png",
+    "source": "exec-9f35d6df-93a8-4528-8248-59cd2920d655.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "2890d5388203a13a1a3fc1a75e2c5900beec88a957ca2788492e1b87ad4260a4"
+  },
+  {
+    "icon": 4,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_04/frame_03.png",
+    "source": "exec-31fb44c3-a689-4da7-b6d8-98cc5f936227.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "443aaff5d9d99c8225c355bdacb173cf20267f2b2d287892fb4c0196f2f39353"
+  },
+  {
+    "icon": 4,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_04/frame_04.png",
+    "source": "exec-1d0deb7c-7006-4a49-a807-ee5775b22def.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "64dfb49fe1612d4bc93b6dc863780b42447a227044a1136574219dc7d2f11106"
+  },
+  {
+    "icon": 4,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_04/frame_05.png",
+    "source": "exec-ef0ad130-9a95-4d7d-89a4-79a9beeaa953.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "877dde8507237a845ef61411bf4683bb14f6b983bd8834a48b3f6e74c229ddc7"
+  },
+  {
+    "icon": 5,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_05/frame_01.png",
+    "source": "exec-ac32b97c-2432-4452-a84c-33c30f31098f.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "295c7b3cd9af5d77c806b7113c044cb5eeec8331117590157a223871948a2959"
+  },
+  {
+    "icon": 5,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_05/frame_02.png",
+    "source": "exec-9cb2a3f4-809e-45ca-a41b-8c92c607547a.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "053d752652b1faf1a838a8c2ed8b2d3c2dee5fcafe6792d8c55d9b4849f62132"
+  },
+  {
+    "icon": 5,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_05/frame_03.png",
+    "source": "exec-c4361b41-97c9-43c1-bcb9-9552705098f6.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "9ca3a677b62736098345e8a950dea5c25d7b0f07de72d8b823da48cae10e04a0"
+  },
+  {
+    "icon": 5,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_05/frame_04.png",
+    "source": "exec-bb117a1e-5901-478d-98a5-a6e0eca44b2c.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "e29198990aa2081e73e75ca722f16714e157e70c875a8e2a1b4253eed1917d6b"
+  },
+  {
+    "icon": 5,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_05/frame_05.png",
+    "source": "exec-b6011c49-d123-477d-9957-5deb235adddf.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "8ffe1fc48be1133c5b4d749bf3cb2e4a520aba6a217b9fe8fad647c6efd488ad"
+  },
+  {
+    "icon": 6,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_06/frame_01.png",
+    "source": "exec-54053f80-61aa-42b8-9155-1683d8b7fa76.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "c4506dbaad3933ff1f6a5f80d2c56ae9cf64c7417d15f3568e620c16454d5c8d"
+  },
+  {
+    "icon": 6,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_06/frame_02.png",
+    "source": "exec-7e3e3df8-b5d8-4b51-b1e6-e6fd1aec4b6f.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "c50d5512dd0aa62c675724af547a9b8d2fe0f404beba1473a4592ed86ab3fe7f"
+  },
+  {
+    "icon": 6,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_06/frame_03.png",
+    "source": "exec-241c91c0-5a87-4167-b484-02b9ace652bd.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "746ec9735c0407f62f32e63154289196cd6d58454d8f4aaf46ae7290052ada99"
+  },
+  {
+    "icon": 6,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_06/frame_04.png",
+    "source": "exec-a8ffbc80-90a7-47da-b712-aa86e106d992.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "b4ec44557c0ed012046d40bdd92705c9b71faf9a8fdb115f4337debe2a875c4a"
+  },
+  {
+    "icon": 6,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_06/frame_05.png",
+    "source": "exec-aa4ba9f0-12b4-47e7-bcdf-064139ca8293.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "15bff7b71ce6e1ad089038ea5f3e0ec7f9a4c082b9d28a89785918205e50f4ab"
+  },
+  {
+    "icon": 7,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_07/frame_01.png",
+    "source": "exec-8dffae4d-e8a8-45e7-bb40-90e2e9e21a75.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "604167766d4824fec8ed5ad76def1d8e9df96a20af64129d63d4d7e029c6d0c5"
+  },
+  {
+    "icon": 7,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_07/frame_02.png",
+    "source": "exec-6b3ff012-70ae-4a9d-a74c-9bf286c2a217.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "39033863f6b7c640c4c6d80a4874448902b77b78c76f8bf43d1f4aabe45c640b"
+  },
+  {
+    "icon": 7,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_07/frame_03.png",
+    "source": "exec-12be32d6-17e5-4436-84f8-98ef88f42db6.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f2837b91879a741f785c3ac085d40c05d48e6e8087876f54299fe63bbff1c71c"
+  },
+  {
+    "icon": 7,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_07/frame_04.png",
+    "source": "exec-72d2e61c-5078-4987-af89-835e9ef178c3.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "25684daca63f2a991e183f3cd45a87ebb2465140f24d83f65fd3968989308cf5"
+  },
+  {
+    "icon": 7,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_07/frame_05.png",
+    "source": "exec-bea6dd5f-92bd-4af2-a965-1a4ec06b9f4d.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "57db2167ba7db8841d38fe16f2c83272fa45d72d8d2095ce6681d01b2c84997e"
+  },
+  {
+    "icon": 8,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_08/frame_01.png",
+    "source": "exec-8cae826a-29f5-497c-831e-d6c1cb139f67.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "dbfab921d51974da1476e14f32427033a326efefd062575d18ef758e7fecf73b"
+  },
+  {
+    "icon": 8,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_08/frame_02.png",
+    "source": "exec-8c5986e1-278c-476f-b945-b3d614dc850a.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "9a1c83b909c575c6e569f5526f77fe90e3d939f43a6d944d3e854883fc16a73b"
+  },
+  {
+    "icon": 8,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_08/frame_03.png",
+    "source": "exec-6a8a861c-8544-4589-98dd-b2d2b0b57647.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f01e454331439e49bff784fb5280931222aea2ecb06f213609136f3273bbf06c"
+  },
+  {
+    "icon": 8,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_08/frame_04.png",
+    "source": "exec-5bbf1e27-bc17-4f58-a40c-80bad0e63b01.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f3b66eea92dd470989aaa4ca07bddec35fdaabd6dc3ff321388a4ae555cf519a"
+  },
+  {
+    "icon": 8,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_08/frame_05.png",
+    "source": "exec-43020d18-6e72-4f93-8759-cf4ba58958e7.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "afcd8dfe290653830270fb097a701de0f64cd5765a5cdf01a940a247895ef831"
+  },
+  {
+    "icon": 9,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_09/frame_01.png",
+    "source": "exec-3b8c7ed7-88bc-46bf-b283-fed128edf1fb.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "584879a885d057b1246d9bccd09bb52dc0aa53b0257ac8447db40b47945ce2c6"
+  },
+  {
+    "icon": 9,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_09/frame_02.png",
+    "source": "exec-2eb6600a-83a9-4012-a948-49892598f428.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "47d113950178cbec736a3d381df94ea7e151a11e0a8639baa8699a73b3fbf18b"
+  },
+  {
+    "icon": 9,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_09/frame_03.png",
+    "source": "exec-9d59d135-d456-42e2-b902-d38a46735582.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "993c4b3eedbb114be62fd60f21b0cfadee4e0618f8f0ea515fd8aad35abb2af5"
+  },
+  {
+    "icon": 9,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_09/frame_04.png",
+    "source": "exec-e5605125-e6ca-4ac2-a6f9-c6985f923e8e.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "d7443ea879353cc9929dd12729136978fc4e704eef661b498b6fa269ab1c8321"
+  },
+  {
+    "icon": 9,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_09/frame_05.png",
+    "source": "exec-35073c0e-8d1c-4c93-a293-5ebb9907723e.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "1b6089bab8973cb38d9df98de3f769ab7a558732f5aa48e2daf383c7eac51546"
+  },
+  {
+    "icon": 10,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_10/frame_01.png",
+    "source": "exec-bb78eaff-625d-426e-a72d-b8c54ed0dcf1.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "623d66e3c84bb4db279903fe9e7b72d602d811dbb1ed9925cde3c157cfa4ccb2"
+  },
+  {
+    "icon": 10,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_10/frame_02.png",
+    "source": "exec-e3dce601-51ec-4fb5-8783-367ed3bcb2c8.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "66017c6733bdc52ceeb6b3689c37c2737a608de39bb57194bc29c7752c501e0c"
+  },
+  {
+    "icon": 10,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_10/frame_03.png",
+    "source": "exec-0b132fac-07b3-4cc6-9d35-10427acdc233.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "001af2851230871da4299ef5f8b2dd0286ab130359706cfb40b8eb01c1ad4cf1"
+  },
+  {
+    "icon": 10,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_10/frame_04.png",
+    "source": "exec-d9cc6b0f-6eb3-4748-9874-eb52a15bb269.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "0d623b0a51f26239385131bb7fa8e950ffc4306f51a49d9163e39202b8954027"
+  },
+  {
+    "icon": 10,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_10/frame_05.png",
+    "source": "exec-09491d18-67fe-4bd8-b0b6-5a7f71ab1c6f.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "d8d5d87895aa33e62873a2073e975b6d6526a577c560efb930448fca7c524b32"
+  },
+  {
+    "icon": 11,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_11/frame_01.png",
+    "source": "exec-275805f1-a4e7-4b7d-bc90-5318e283b83c.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f953624f63ae3726e77f21e479e864979e89ead71d73685b69147b0e382ad1c9"
+  },
+  {
+    "icon": 11,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_11/frame_02.png",
+    "source": "exec-5c9be688-e32d-44f3-8730-576f868d3eb1.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "e39d2af985490db440a595427f023ea6f358bac7015c969bddc622b245b66bf7"
+  },
+  {
+    "icon": 11,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_11/frame_03.png",
+    "source": "exec-48c4b8db-99cd-4a09-9c29-96c064782389.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "c481e1d4151c62651d79054d606f78169e0a17469cad7c06854ed8ccc6e3daca"
+  },
+  {
+    "icon": 11,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_11/frame_04.png",
+    "source": "exec-a80df619-844f-4342-ba7f-07993d8299a0.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "51062f0cb5b1935d51588df0eeb8621e1c1ff61ea59b75f1a16fda4319274c73"
+  },
+  {
+    "icon": 11,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_11/frame_05.png",
+    "source": "exec-58f7ea3e-a919-4c06-af93-35965ad79b71.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "91779d72f1dfe5ef624447e71e95013e85209a1bb787bf73ac2a0d277da2946f"
+  },
+  {
+    "icon": 12,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_12/frame_01.png",
+    "source": "exec-98d5b741-ee46-4016-8aa8-a0a2df814b9e.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "38cc4c929863fc84be09a783f51b5e0fe0c75a7affd2c9f89448b7776fe81497"
+  },
+  {
+    "icon": 12,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_12/frame_02.png",
+    "source": "exec-cace2c14-40ff-4383-ba56-bcd41fbf3606.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "e9938812796b67fd683798cd36f53c02339aabee3c533699274171b5aec46a0f"
+  },
+  {
+    "icon": 12,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_12/frame_03.png",
+    "source": "exec-33d88530-8d52-47e7-9f94-fb76f14fac77.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "0e78cffe50d8daf7acd5e61a486a43999a1c9d9e5904c94b514b45bf83bd9ac8"
+  },
+  {
+    "icon": 12,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_12/frame_04.png",
+    "source": "exec-bb5da4eb-1a67-4a26-9b98-48f99992b4f4.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "bf9784d95fdeb265c801f18addae77b03ac4bcb5ae9ff239878f45691055a541"
+  },
+  {
+    "icon": 12,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_12/frame_05.png",
+    "source": "exec-45bcc070-2510-4002-a33d-9d3c1bc6b16a.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "3f2c526fb6223f2d38a65b9f1555b6e6a45084074c83b93d2da4a65b63e819ef"
+  },
+  {
+    "icon": 13,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_13/frame_01.png",
+    "source": "exec-9b5cdb99-f6c0-4b6c-83b0-ca7e9595885e.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "17d5d5421b49910b67a8c128c3ea0c663a462680c386a03fc06aed89e4660dac"
+  },
+  {
+    "icon": 13,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_13/frame_02.png",
+    "source": "exec-a581c8a6-e53f-4266-8e15-a94c85c7a0c1.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f437393a8806b770ece4b3b626f02578bc993cafaf66a4a385fb467813b790b4"
+  },
+  {
+    "icon": 13,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_13/frame_03.png",
+    "source": "exec-ce7a0b91-0a51-412a-8bda-ad48aae4dd64.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "b4662a889fdd9a19071d9f7c9cf137b7cfe4d9fd22e4f2327683b426739e9bc2"
+  },
+  {
+    "icon": 13,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_13/frame_04.png",
+    "source": "exec-f00b8b27-8fb7-4a01-979c-2e59808f0506.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "56ea6e0fdcceb6aa0787750803af141d909979858db1be9503ba219436403a42"
+  },
+  {
+    "icon": 13,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_13/frame_05.png",
+    "source": "exec-9612837e-9d7d-43eb-a575-039267efad8e.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "758fa9f6c5041bb1ff17a589cfe8d33cc8e727b874e2ac72f829e408180b8066"
+  },
+  {
+    "icon": 14,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_14/frame_01.png",
+    "source": "exec-25b190c2-8a75-4c1f-8665-81dc3ccb2b0c.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "66fac0e4cbe18e8073679c58394405aea3063804f972c564761899177e2793fd"
+  },
+  {
+    "icon": 14,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_14/frame_02.png",
+    "source": "exec-36613f6b-68ff-494b-b46a-698c12622975.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "7aea131e5f85e81454285916868db2e4155d797c4a2e5693154af1e0cc7dc89e"
+  },
+  {
+    "icon": 14,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_14/frame_03.png",
+    "source": "exec-0f5fff55-c36a-4544-ac49-b1cae3a32fab.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f60e4d4edf57c64fdb5b1bb1fedae75fc2eff5dc599bbd3b098458b65b635821"
+  },
+  {
+    "icon": 14,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_14/frame_04.png",
+    "source": "exec-d341013b-f71f-4144-9a1a-6298fe221960.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "7fe16948316634fce1b0ef02d5624cf6af1781a6142ac63009738e6c4c55b57d"
+  },
+  {
+    "icon": 14,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_14/frame_05.png",
+    "source": "exec-84ac3e97-3865-4bb4-9305-5159b9ac9df9.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "94345859c271edb80393df3ee52cd44c1de9b9224abf58d78531a4a36ae82b98"
+  },
+  {
+    "icon": 15,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_15/frame_01.png",
+    "source": "exec-f33d3a06-a0b0-4c93-ab07-d7b32c3e2342.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "a84537673c83304ae9de3a55ef73234eb920738313e7bcf08cf74b8daa72a9bb"
+  },
+  {
+    "icon": 15,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_15/frame_02.png",
+    "source": "exec-4ef2f504-c10e-409d-aab1-55c474b76f50.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "ba34e848ed4e779e19c3e5d3387860365aeae521f013ff2dae3f1a2de8b45a36"
+  },
+  {
+    "icon": 15,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_15/frame_03.png",
+    "source": "exec-61663b5d-9a9f-4050-a55b-7cd51437a99f.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "d25ecee37b79dfbeab2e98c0ac536f3acec1ac94bcc790f0835c6360a963a81d"
+  },
+  {
+    "icon": 15,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_15/frame_04.png",
+    "source": "exec-432d5df7-a0eb-4cb2-a249-90a336e18207.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "d97be51c552c67a2c69a94f77942b0d40e36d52aee8beb44a3adc091c73b20af"
+  },
+  {
+    "icon": 15,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_15/frame_05.png",
+    "source": "exec-78460b90-58a5-49d1-96e0-10760792181c.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "ec120b7989b6aa4b0cd4549dc1c1cd098722e1d07a7188545e24c11111d2662b"
+  },
+  {
+    "icon": 16,
+    "frame": 1,
+    "path": "assets/hedgehog/originals/icon_16/frame_01.png",
+    "source": "exec-0b7e6e03-bf05-47a9-92c4-093f1b7e932c.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "31c92bf9acf826207727cdd59e50d26191f554a6a676f9907d82f5d473547fb0"
+  },
+  {
+    "icon": 16,
+    "frame": 2,
+    "path": "assets/hedgehog/originals/icon_16/frame_02.png",
+    "source": "exec-eace0272-988f-4641-aa05-1316d0c02765.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "940048046d94d892ab1e4ed4590ff4a64901bd68d6d53dee4de810f4400401e4"
+  },
+  {
+    "icon": 16,
+    "frame": 3,
+    "path": "assets/hedgehog/originals/icon_16/frame_03.png",
+    "source": "exec-f5e8bec1-fe4c-4fd8-809e-16e3a9904455.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "4412bc865ccb69885398a26336c4a48c1daa0d3738c2bb4062f9e9533968cda0"
+  },
+  {
+    "icon": 16,
+    "frame": 4,
+    "path": "assets/hedgehog/originals/icon_16/frame_04.png",
+    "source": "exec-358b4153-5b13-4b0d-b6b1-4c524daee43c.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "b827a0b5da73dcccc5175b597b2403d0211218c62319f3fa8cf53a56ddadcf98"
+  },
+  {
+    "icon": 16,
+    "frame": 5,
+    "path": "assets/hedgehog/originals/icon_16/frame_05.png",
+    "source": "exec-3922305b-1984-459f-a5de-707cd3ed2d24.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "pixel_sha256": "f1d1b3c6021f60d0738d2691ffe37c13e1df90b00aea916d4b8c78e9947bdad5"
+  }
+]
